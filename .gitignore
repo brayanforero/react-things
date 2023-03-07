@@ -1,0 +1,14 @@
+# auto generate
+node_modules
+package-lock.json
+pnpm-lock.yaml
+
+# Editor directories and files
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+projects/**/.DS_Store

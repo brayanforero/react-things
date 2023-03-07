@@ -1,0 +1,23 @@
+{
+  "name": "react-things",
+  "version": "1.0.0",
+  "description": "This a group projects and learnship about react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "projects",
+    "learn"
+  ],
+  "author": "Brayan <bforero.engineer@gmail.com",
+  "license": "MIT",
+  "workspaces": [
+    "projects/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "#"
+  }
+}
