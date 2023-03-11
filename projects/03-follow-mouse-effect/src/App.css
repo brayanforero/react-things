@@ -1,0 +1,20 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.pointer-mask {
+  position: absolute;
+  top: -25px;
+  left: -25px;
+  display: block;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  outline: 1px solid #ccc;
+  background: rgb(0 0 0 / .15);
+  pointer-events: none;
+}
+
